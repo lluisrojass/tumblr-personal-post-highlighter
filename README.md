@@ -2,7 +2,7 @@
 
 [Click here to add to chrome](https://chrome.google.com/webstore/detail/tumblr-personal-post-high/lcfdkkodbhjgooidmbbofnafakdjnblk)
 
-This is a Chrome browser extension that highlights a Tumblr blog's personally uploaded content. Tumblr has historically failed to provide this functionality to users, with many resorting to third party alternatives. 
+This is a Chrome browser extension that highlights a Tumblr blog's personally uploaded content as you browse. Tumblr has historically failed to provide this functionality to users. 
 
 
 On Quora: [On Tumblr, how do you view somebody's original posts?](https://www.quora.com/On-Tumblr-how-do-you-view-somebodys-original-posts)  
@@ -12,7 +12,7 @@ On Quora: [On Tumblr, how do you view somebody's original posts?](https://www.qu
 
 ## Why an extension?  
 
-There exist dedicated online tools which perform this function, such as [jetblackcode's post finder utility](https://jetblackcode.com/TumblrOriginalPostFinder). However, these tools are trying to deliver dedicated web experiences, and impose behavior such as pagination or very limited filter/sort functionality. This extension enhances your native Tumblr browser experience, giving you the freedom to use Tumblr's own filter/sort functionality and UI. 
+There exist serviceable tools which already solve this problem, e.g. [jetblackcode's post finder utility](https://jetblackcode.com/TumblrOriginalPostFinder). These tools exist as applications and deliver a dedicated UI with limited features. This extension enhances your native Tumblr experience, giving you the freedom to use Tumblr's own UI and functionality (e.g. pagination, filter/sort). 
 
 ## Usage
 
